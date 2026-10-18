@@ -1,0 +1,2 @@
+# premium-cope-core-001-cope-and-core-mould-loam-layer
+Tired of scrapping cope and core moulds because a single loam layer was missed or applied out of sequence?  This Notion template eliminates guesswork and costly rework by providing a structured, step-by-step tracker for every loam layering phase—from base build to final skin. It ensures each layer is documented, timed, and verified, so your moulds
